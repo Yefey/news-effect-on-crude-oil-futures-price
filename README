@@ -1,6 +1,1 @@
-echo "# news-effect-on-crude-oil-futures-price" >> README.md
-git init
-git add README.md
-git commit -m "Crude Oil Futures Price"
-git remote add origin https://github.com/Yefey/news-effect-on-crude-oil-futures-price.git
-git push -u origin master
+This is a joint project of using machine learning algorithm in investigating news effect on crude oil futures price.
